@@ -11,16 +11,16 @@
 
 
 ## Technical Stack
- - Programming Languages:
-Java: Core application development.
-Python: Recommendation system integration.
- - Frameworks & Libraries:
-Android SDK: Core Android development.
-OpenCV: Image processing and panorama stitching.
-Chaquopy: Embedding Python in the Android app.
- - Tools:
-Gradle: Build and dependency management.
-Git: Version control.
+### Programming Languages:
+ - Java: Core application development.
+ - Python: Recommendation system integration.
+### Frameworks & Libraries:
+ - Android SDK: Core Android development.
+ - OpenCV: Image processing and panorama stitching.
+ - Chaquopy: Embedding Python in the Android app.
+### Tools:
+ - Gradle: Build and dependency management.
+ - Git: Version control.
 
 ## How It Works
 1. Photo Capture and Camera Pose Calculation:
